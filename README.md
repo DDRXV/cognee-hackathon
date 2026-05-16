@@ -368,4 +368,7 @@ cognee-hackathon/
 
 ---
 
+<img width="2696" height="1720" alt="image" src="https://github.com/user-attachments/assets/1c9702cf-5c42-4b6e-ab80-18c1c26b9637" />
+
+
 *SkillAgents AI GTM Brain — Cognee × Redis Hackathon 2026*
