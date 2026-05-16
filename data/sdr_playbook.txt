@@ -1,0 +1,66 @@
+SKILLAGENTS AI — SDR SALES PLAYBOOK
+=====================================
+
+COMPANY OVERVIEW
+----------------
+SkillAgents AI is an AI-powered workforce training platform built for enterprises. We deploy intelligent AI agents that learn your company's tools, workflows, and knowledge base — then train your employees through personalized, role-specific learning paths. Unlike traditional LMS platforms that serve static video libraries, SkillAgents AI creates a living training system that adapts as your organization evolves.
+
+Founded: 2023
+HQ: San Francisco, CA
+Stage: Series B ($28M raised)
+Customers: 40+ enterprise customers across financial services, healthcare, and tech
+
+CORE VALUE PROPOSITIONS
+------------------------
+1. 60% Faster AI Skill Adoption — employees reach proficiency on new AI tools in weeks, not quarters
+2. Role-Specific Learning Paths — AI agents customize content for each job function (engineer, analyst, manager, ops)
+3. Skills Gap Analysis Dashboard — real-time visibility into which teams are AI-ready and which are falling behind
+4. Measurable L&D ROI — track productivity lift, tool adoption rates, and certification completion with hard numbers
+5. Compliance Training Automation — automate mandatory compliance and policy training, with audit trails
+6. Zero Integration Headache — works alongside existing tools; no ripping out current systems
+
+HOW IT WORKS
+-------------
+Step 1: Onboarding — We ingest your internal docs, SOPs, tools, and workflows into our AI knowledge graph
+Step 2: Assessment — AI identifies skills gaps per role and creates a baseline for each employee
+Step 3: Training — AI agents deliver bite-sized, contextual training directly in Slack, Teams, or browser
+Step 4: Measurement — Dashboard tracks adoption, completion, and productivity lift weekly
+
+COMPETITIVE POSITIONING
+------------------------
+vs. Coursera for Business: We're not a content library. SkillAgents builds training specific to YOUR tools and workflows, not generic courses.
+vs. LinkedIn Learning: LinkedIn Learning is passive video consumption. We're active, AI-driven, and company-specific.
+vs. Workday Learning: Workday is an HR system bolted with a basic LMS. We're purpose-built for AI skill adoption with measurable ROI.
+vs. Degreed: Degreed aggregates content. We generate and deliver it, tied to your actual job roles and internal tools.
+
+COMMON OBJECTIONS & RESPONSES
+--------------------------------
+Objection: "We already have an LMS (Cornerstone, SAP, Workday)."
+Response: "We've heard that from 80% of our customers. SkillAgents doesn't replace your LMS — it plugs into it and makes it intelligent. Your LMS becomes the system of record; we become the delivery and personalization engine. Most customers see ROI within 90 days without touching their LMS rollout."
+
+Objection: "Our employees won't adopt another tool."
+Response: "That's exactly why we built it to live inside Slack and Teams. There's no new app to install, no login to remember. Training arrives where employees already work. Our average completion rate is 78% vs. 23% industry average for standalone LMS."
+
+Objection: "This sounds expensive."
+Response: "Our typical deal is $80K–$250K/year for 1,000–5,000 employees. When you factor that replacing one mis-skilled employee costs $15,000–$30,000 in lost productivity and rehiring, customers typically see 4–6x ROI in year one. We also offer a 60-day pilot at no cost."
+
+Objection: "We're not ready — still figuring out our AI strategy."
+Response: "The best time to build AI training infrastructure is before the strategy is fully locked. Companies that wait 12 months are playing catch-up. We help you build the learning foundation so your team can execute whatever AI strategy you land on."
+
+WINNING DEAL PATTERNS
+----------------------
+- Company has announced an AI transformation initiative in the last 6 months
+- New CHRO or CLO hired within the last 18 months (new leadership = open to new vendors)
+- Post-acquisition: companies need to train merged workforces on new tools fast
+- Companies replacing Cornerstone or SAP SuccessFactors (frustrated with legacy LMS)
+- CTO or CPO publicly posting about "AI readiness" or "upskilling" on LinkedIn
+- L&D team posting multiple open roles (signal: they're investing but overwhelmed)
+- Companies running "AI pilot programs" that need a training layer to scale
+
+IDEAL FIRST CALL AGENDA
+------------------------
+1. Confirm their AI transformation timeline (urgency driver)
+2. Ask: "How is your team currently getting trained on new AI tools?" (expose the gap)
+3. Demo the skills gap dashboard with their industry benchmarks
+4. Show a sample personalized learning path for a role they care about
+5. Propose a 60-day no-cost pilot with 100 employees

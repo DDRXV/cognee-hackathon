@@ -1,0 +1,90 @@
+SKILLAGENTS AI — IDEAL CUSTOMER PROFILES (ICP)
+================================================
+
+ICP A: "Enterprise Digital Transformer"
+-----------------------------------------
+FIRMOGRAPHICS
+- Company size: 1,000–10,000 employees
+- Revenue: $500M–$5B ARR
+- Type: Fortune 1000, publicly traded or PE-backed
+- Industry: Financial services, healthcare, insurance, manufacturing, professional services
+- Geography: North America (primary), UK/EU (secondary)
+
+TECHNOLOGY SIGNALS
+- Using legacy LMS: Cornerstone OnDemand, SAP SuccessFactors, or Saba
+- Microsoft 365 / Teams as primary collaboration stack
+- Active Workday or SAP HR deployment
+- Running AI pilots with tools like Copilot for M365, GitHub Copilot, or custom LLMs
+
+ORGANIZATIONAL SIGNALS (BUYING TRIGGERS)
+- CHRO or CLO hired or promoted within the last 18 months — new leaders want quick wins
+- Company has publicly announced an "AI transformation," "digital transformation," or "Future of Work" initiative
+- L&D team is posting 3+ open roles (signal: they're scaling but overwhelmed)
+- Annual L&D budget exceeds $500K/year
+- Company completed a merger or acquisition in the last 12 months (need to train merged orgs)
+
+PAIN POINTS WE SOLVE
+- Legacy LMS has 20–30% completion rates; employees ignore it
+- No visibility into which teams are AI-ready vs. falling behind
+- IT is overwhelmed rolling out AI tools with no training support
+- Compliance training is manual, audit trails are messy
+- New AI tools adopted in pockets — no org-wide consistency
+
+CHAMPION PERSONA
+- Title: Chief Learning Officer (CLO), VP of Learning & Development, Head of Talent Development
+- Secondary champion: Chief People Officer (CPO), CHRO
+- Economic buyer: CFO or COO (ties to productivity ROI)
+- Influencer: CTO or CIO (AI tool rollout owner)
+
+DISQUALIFIERS
+- Fewer than 1,000 employees (too small for enterprise motion)
+- L&D budget under $200K
+- Already 12+ months into a competing platform with a 3-year contract
+- Custom-built internal LMS (signals strong internal capability / not open to vendors)
+
+EXAMPLE FIT SCORE: 9/10 — GlobalBank Corp, NovaMed Health
+
+---
+
+ICP B: "Scaling Tech Company"
+--------------------------------
+FIRMOGRAPHICS
+- Company size: 200–800 employees
+- Stage: Series C or later, or profitable bootstrapped
+- Revenue: $20M–$200M ARR
+- Type: B2B SaaS, developer tools, fintech, data infrastructure
+- Geography: North America (primary)
+
+TECHNOLOGY SIGNALS
+- No formal LMS in place (using scattered Notion docs, Loom videos, Google Drive)
+- Slack-first culture (training delivery via Slack is a major win here)
+- High concentration of engineers, data scientists, or product managers
+- Adopting AI tools fast: Cursor, GitHub Copilot, Claude, ChatGPT for work
+- Engineering team grew 50%+ in the last 12 months
+
+ORGANIZATIONAL SIGNALS (BUYING TRIGGERS)
+- Head of People or HR Business Partner hired in the last 6 months (first formal people function)
+- CTO or CEO has posted on LinkedIn about "AI readiness" or "upskilling the team"
+- Company raised a new funding round (budget unlocked, scaling pressure)
+- Onboarding new hires is slow and inconsistent (pain is acute and felt by all managers)
+- Recent all-hands or blog post mentioning "we need to be an AI-native team"
+
+PAIN POINTS WE SOLVE
+- Onboarding takes 3–6 months; new hires are unproductive too long
+- No consistent way to train the team on internal tools and AI workflows
+- Engineering managers spend 20% of their time on ad-hoc training instead of building
+- Knowledge lives in Slack threads and tribal memory — not captured or transferable
+- No way to measure whether AI tool investments are actually being used
+
+CHAMPION PERSONA
+- Title: Head of People, VP of Engineering, CTO
+- Economic buyer: CEO or CFO (small company, decisions are top-down)
+- Influencer: Head of Engineering or VP of Product
+
+DISQUALIFIERS
+- Fewer than 150 employees (not enough scale for ROI)
+- Pre-Series C (budget uncertain, long sales cycle risk)
+- Consumer-facing company with no internal tech team to train
+- Engineering-only company with no non-technical roles (narrow use case)
+
+EXAMPLE FIT SCORE: 9/10 — BuildFast SaaS

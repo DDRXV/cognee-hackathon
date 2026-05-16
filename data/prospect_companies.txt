@@ -1,0 +1,147 @@
+SKILLAGENTS AI — PROSPECT COMPANY INTELLIGENCE
+================================================
+(Simulated LinkedIn/Social/News Data — Last Updated: May 2025)
+
+---
+
+COMPANY: GlobalBank Corp
+------------------------
+Industry: Financial Services
+Size: 12,000 employees
+Revenue: ~$3.2B ARR
+HQ: New York, NY
+Website: globalbankcorp.com
+
+RECENT SIGNALS:
+- January 2025: CEO published press release titled "GlobalBank's AI-First Strategy for 2025–2027" — committing $150M to AI transformation across all business units
+- February 2025: CHRO Sarah Mitchell joined from JPMorgan after 15 years; her LinkedIn bio says "passionate about future-of-work and AI-augmented talent"
+- March 2025: L&D team posted 4 open roles: "AI Learning Experience Designer," "Head of Digital Learning," "L&D Program Manager," and "Training Technology Specialist"
+- April 2025: Internal memo leaked to press — "only 18% of employees have completed any AI tool training despite Copilot for M365 rollout"
+- April 2025: GlobalBank signed Microsoft enterprise agreement including Copilot for all 12,000 employees — tool is live but training is not
+
+TECHNOLOGY STACK: Cornerstone OnDemand (LMS), Microsoft 365, Teams, Azure, Salesforce
+CURRENT L&D VENDOR: Cornerstone (contract up for renewal Q4 2025)
+KEY CONTACTS: Sarah Mitchell (CHRO), Derek Okafor (VP L&D), Priya Nair (CTO)
+
+ICP FIT ASSESSMENT:
+✅ 12,000 employees — squarely in ICP A range
+✅ Active AI transformation initiative with board-level commitment
+✅ New CHRO hired 6 months ago — open to new vendors
+✅ Using Cornerstone — a platform we beat regularly in competitive deals
+✅ Copilot deployed but no training → acute pain, our exact use case
+✅ L&D team hiring aggressively → they have budget and urgency
+OVERALL FIT: 10/10 — Tier 1 Priority
+
+---
+
+COMPANY: NovaMed Health
+-----------------------
+Industry: Healthcare / Hospital Network
+Size: 3,500 employees
+Revenue: ~$800M
+HQ: Chicago, IL
+Website: novamed-health.com
+
+RECENT SIGNALS:
+- November 2024: NovaMed announced $45M EHR (Electronic Health Record) modernization initiative, moving from Epic to Oracle Health
+- December 2024: Created and posted a new CLO (Chief Learning Officer) role — filled internally by Dr. James Osei (former Director of Clinical Training)
+- February 2025: Compliance audit flagged that mandatory HIPAA and cybersecurity training completion rates were at 41% — below required 80% threshold
+- March 2025: NovaMed blog post: "Preparing our clinical and administrative teams for digital-first healthcare"
+- April 2025: CTO Mia Rossi gave a conference talk on "AI-assisted diagnostics" — noting that staff training is the bottleneck
+
+TECHNOLOGY STACK: SAP SuccessFactors (HR + LMS), Oracle Health (EHR in migration), Microsoft Teams
+CURRENT L&D VENDOR: SAP SuccessFactors learning module
+KEY CONTACTS: Dr. James Osei (CLO), Mia Rossi (CTO), Amara Diallo (CHRO)
+
+ICP FIT ASSESSMENT:
+✅ 3,500 employees — fits ICP A lower bound
+✅ Active EHR modernization = massive training need for new tools
+✅ CLO role newly created — greenfield, open to new vendors
+✅ Compliance training failure rate is a boardroom issue right now
+✅ SAP SuccessFactors LMS — notoriously poor UX, common displacement target
+OVERALL FIT: 9/10 — Tier 1 Priority
+
+---
+
+COMPANY: BuildFast SaaS
+-----------------------
+Industry: B2B SaaS / Developer Tools
+Size: 400 employees
+Revenue: ~$55M ARR
+HQ: Austin, TX
+Website: buildfastsaas.io
+
+RECENT SIGNALS:
+- September 2024: Raised $40M Series D led by Andreessen Horowitz; press release mentions "doubling engineering headcount in 12 months"
+- October 2024: Hired first Head of People — Keisha Thompson, former Stripe HR Business Partner
+- November 2024: CTO Ben Alvarez LinkedIn post (847 likes): "We just rolled out Cursor AI to our entire eng team. Week 1 stats: 60% haven't opened it. We need a culture of AI, not just AI tools. Building that is hard."
+- January 2025: Engineering team grew from 80 to 160 engineers; onboarding feedback survey shows new hires take 4+ months to become fully productive
+- March 2025: Company blog post: "BuildFast's 2025 goal: become an AI-native engineering org"
+- April 2025: Head of People Keisha posted: "Looking for recommendations on how to actually scale onboarding and training. Current system is Notion pages and vibes."
+
+TECHNOLOGY STACK: Slack, Notion, GitHub, Linear, Cursor AI, GitHub Copilot, Figma, Vercel
+NO FORMAL LMS IN PLACE
+KEY CONTACTS: Keisha Thompson (Head of People), Ben Alvarez (CTO), Maya Chen (VP Engineering)
+
+ICP FIT ASSESSMENT:
+✅ 400 employees, Series D — fits ICP B perfectly
+✅ No LMS — greenfield deal, no displacement needed
+✅ CTO publicly identified AI training as a company problem
+✅ Head of People just hired — building the function from scratch, needs wins fast
+✅ Slack-first culture — our Slack-native delivery is a natural fit
+✅ Explicit pain: 4-month onboarding ramp is unsustainable at hiring pace
+OVERALL FIT: 10/10 — Tier 1 Priority
+
+---
+
+COMPANY: RetailGiant Co
+-----------------------
+Industry: Retail / E-commerce
+Size: 85,000 employees
+Revenue: ~$22B
+HQ: Seattle, WA
+Website: retailgiant.com
+
+RECENT SIGNALS:
+- RetailGiant has a 200-person internal "Digital Academy" team
+- Built a proprietary LMS ("GiantLearn") used by all 85,000 employees globally
+- 3-year contract signed in 2024 with Accenture for L&D transformation
+- Procurement process requires 18-month RFP cycles and security review by 6 committees
+- CTO stated in earnings call: "We are self-sufficient on learning technology"
+
+TECHNOLOGY STACK: Proprietary LMS (GiantLearn), SAP, Salesforce, AWS
+KEY CONTACTS: Unknown — procurement-gated
+
+ICP FIT ASSESSMENT:
+❌ 85,000 employees — far exceeds ICP A upper bound
+❌ Proprietary custom LMS — strong internal capability, not open to vendors
+❌ Accenture contract locked for 3 years
+❌ 18-month procurement cycle — not worth the CAC
+❌ Self-described as "self-sufficient" on learning tech
+OVERALL FIT: 1/10 — Disqualified, Do Not Pursue
+
+---
+
+COMPANY: MicroStartup
+---------------------
+Industry: Consumer App / Mobile
+Size: 25 employees
+Revenue: ~$500K ARR
+HQ: Remote
+Website: microstartup.app
+
+RECENT SIGNALS:
+- Seed funded ($1.2M) in 2023; has not raised since
+- Founding team of 8 engineers building a consumer app
+- No HR function; CEO handles all people ops
+- No L&D budget — team is self-directed learners
+
+TECHNOLOGY STACK: Slack, Notion, Figma, Firebase
+KEY CONTACTS: Sarah Kim (CEO/Founder)
+
+ICP FIT ASSESSMENT:
+❌ 25 employees — well below minimum ICP threshold
+❌ Seed stage — no L&D budget available
+❌ Consumer app company — no enterprise training use case
+❌ No HR function — no champion exists
+OVERALL FIT: 0/10 — Disqualified, Do Not Contact
